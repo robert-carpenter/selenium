@@ -3,7 +3,7 @@
     "@bazel/bazel": "^0.27.0",
     "@bazel/buildifier": "^0.22.0",
     "@bazel/ibazel": "^0.10.2",
-    "@bazel/jasmine": "^0.32.2",
+    "@bazel/jasmine": "^1.2.1",
     "express": "^4.16.4",
     "jszip": "^3.2.1",
     "mocha": "^6.1.4",
